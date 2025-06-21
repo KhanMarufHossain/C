@@ -1,0 +1,515 @@
+Route: Uttara to NSU
+  Day: ST
+    Time: 08:00
+      Bookings:
+        Seat 1: Name: Shariar Mrida, ID: 2421566642, Phone: 017
+        Seat 2: Name: Al Mustafiz, ID: 2422867642, Phone: 015
+        Seat 3: Name: Khan Hossain, ID: 2423257642, Phone: 019
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: MW
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: RA
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+Route: NSU to Uttara
+  Day: ST
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: MW
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: RA
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+Route: Dhanmondi to NSU
+  Day: ST
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: MW
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: RA
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+Route: NSU to Dhanmondi
+  Day: ST
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: MW
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: RA
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+Route: Mirpur to NSU
+  Day: ST
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: MW
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: RA
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+Route: NSU to Mirpur
+  Day: ST
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: MW
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: RA
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+Route: Banani to NSU
+  Day: ST
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: MW
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: RA
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+Route: NSU to Banani
+  Day: ST
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: MW
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
+  Day: RA
+    Time: 08:00
+      Bookings:
+    Time: 09:00
+      Bookings:
+    Time: 10:00
+      Bookings:
+    Time: 11:00
+      Bookings:
+    Time: 12:00
+      Bookings:
+    Time: 13:00
+      Bookings:
+    Time: 14:00
+      Bookings:
+    Time: 15:00
+      Bookings:
+    Time: 16:00
+      Bookings:
+    Time: 17:00
+      Bookings:
